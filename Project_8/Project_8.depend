@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1541659610 source:c:\users\roo\desktop\fall 2018\csci 301\projects\csci_301_prj_8\project_8\queue.cpp
+	<iostream>
+	<fstream>
+	"Queue.h"
+
+1541659610 c:\users\roo\desktop\fall 2018\csci 301\projects\csci_301_prj_8\project_8\queue.h
+	<fstream>
+
+1541659625 source:c:\users\roo\desktop\fall 2018\csci 301\projects\csci_301_prj_8\project_8\main.cpp
+	<iostream>
+	"Queue.h"
+	<fstream>
+	<cstdlib>
+
